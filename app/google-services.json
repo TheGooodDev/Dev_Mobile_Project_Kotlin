@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982244818078",
+    "project_id": "la-recette-du-chef",
+    "storage_bucket": "la-recette-du-chef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982244818078:android:cdf98ae8c9edb1b8418f8f",
+        "android_client_info": {
+          "package_name": "com.example.projet_la_recette_du_chef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982244818078-ai4ci5d20dhg2nrmv7ekobvnpqmh2n1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTPl5-_-Y85ibNETYKWiAHWn7BmLCUSDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982244818078-ai4ci5d20dhg2nrmv7ekobvnpqmh2n1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
